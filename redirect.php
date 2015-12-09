@@ -2,7 +2,7 @@
 /*
 Plugin Name: Redirect
 Plugin URI: http://te-online.net/
-Description: Simple Shortcode, that transforms a page or post with the content of <code>[redirect]http://te-online.net/[/redirect]</code> a simple redirect.
+Description: Simple Shortcode, that transforms a page or post with the content of <code>[redirect]http://te-online.net/[/redirect]</code> into a HTML redirect.
 Author: Thomas Ebert
 Version: 1.0
 Author URI: http://te-online.net/
